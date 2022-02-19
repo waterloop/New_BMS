@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=+12 Pin=C8-1
+Added Pin To Net: NetName=+12 Pin=J1-1
+Added Pin To Net: NetName=+12 Pin=Q1-3
+Added Member To Class: ClassName=MAIN IC Member=Component P8 1x2 Header
+Added Member To Class: ClassName=MAIN IC Member=Component Q1 NPN
+Added Member To Class: ClassName=MAIN IC Member=Component R5 Resistor
+Added Member To Class: ClassName=MAIN IC Member=Component R13 Resistor
+Added Member To Class: ClassName=MAIN IC Member=Component R14 Resistor
+Added Member To Class: ClassName=MAIN IC Member=Component R15 Resistor
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

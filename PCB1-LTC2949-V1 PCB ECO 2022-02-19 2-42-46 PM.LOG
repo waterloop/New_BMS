@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=P5 Old Footprint=CUI_TB002-500-02 New Footprint=CUI_TB002-500-02
+Change Physical Footprint: Designator=P7 Old Footprint=CUI_TB002-500-02 New Footprint=CUI_TB002-500-02
+Change Physical Footprint: Designator=R10 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=R11 Old Footprint=0603 - Resistor New Footprint=0603 - Resistor
+Change Physical Footprint: Designator=TP1 Old Footprint=Test Point New Footprint=Test Point
+Change Physical Footprint: Designator=TP2 Old Footprint=Test Point New Footprint=Test Point
+Change Physical Footprint: Designator=TP3 Old Footprint=Test Point New Footprint=Test Point
+Change Physical Footprint: Designator=TP4 Old Footprint=Test Point New Footprint=Test Point
+Change Physical Footprint: Designator=TP5 Old Footprint=Test Point New Footprint=Test Point

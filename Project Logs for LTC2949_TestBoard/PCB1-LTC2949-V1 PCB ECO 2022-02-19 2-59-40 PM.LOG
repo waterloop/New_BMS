@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetP3_1 New Net Name=TX_N
+Change Net Name : Old Net Name=NetP3_2 New Net Name=TX_P
+Change Net Name : Old Net Name=NetR9_1 New Net Name=RX_N
+Change Net Name : Old Net Name=NetR9_2 New Net Name=RX_P
+Added Differential Pair: Name=RX
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC
