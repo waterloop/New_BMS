@@ -1,0 +1,6 @@
+Added Component: Designator=P11(HDR1X2)
+Added Pin To Net: NetName=AGND Pin=P11-2
+Added Pin To Net: NetName=NetP11_1 Pin=P11-1
+Added Pin To Net: NetName=NetP11_1 Pin=U1-35
+Added Net: Name=NetP11_1
+Added Member To Class: ClassName=CONNECTORS Member=Component P11 1x2 Header
