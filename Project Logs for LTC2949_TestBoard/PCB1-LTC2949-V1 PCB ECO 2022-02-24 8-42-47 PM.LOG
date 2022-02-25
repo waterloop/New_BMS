@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+12 Pin=C1-1
+Removed Pin From Net: NetName=AGND Pin=C1-2
+Change Component Comment : Designator=C1 Old Comment=Nonpolarized Capacitor New Comment=Capacitor - Nonpolarized
+Added Pin To Net: NetName=AGND Pin=C1-1
+Added Pin To Net: NetName=VREF Pin=C1-2
+Added Pin To Net: NetName=VREF Pin=P11-1
+Added Pin To Net: NetName=VREF Pin=U1-35
+Added Net: Name=VREF
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC
