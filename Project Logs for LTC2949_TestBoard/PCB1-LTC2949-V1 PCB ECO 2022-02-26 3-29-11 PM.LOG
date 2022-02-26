@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=RX- Old Footprint=Test Point New Footprint=Test Point - 5002
+Change Component Footprint: Designator=VBATM Old Footprint=Test Point New Footprint=Test Point - 5002
+Change Component Footprint: Designator=VBATP Old Footprint=Test Point New Footprint=Test Point - 5002
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC
