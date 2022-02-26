@@ -1,0 +1,261 @@
+Wire List
+
+<<< Component List >>>
+Capacitor - Nonpolarized        C1             0805 - Capacitor
+Nonpolarized Capacitor          C2             0805 - Capacitor
+Nonpolarized Capacitor          C3             0805 - Capacitor
+Nonpolarized Capacitor          C4             0805 - Capacitor
+Nonpolarized Capacitor          C5             0805 - Capacitor
+Nonpolarized Capacitor          C6             0805 - Capacitor
+Nonpolarized Capacitor          C7             0805 - Capacitor
+Nonpolarized Capacitor          C8             0805 - Capacitor
+Nonpolarized Capacitor          C9             0805 - Capacitor
+Nonpolarized Capacitor          C10            0805 - Capacitor
+Nonpolarized Capacitor          C11            0805 - Capacitor
+Zener                           D1             BZD27C - ZENER DIODES
+1x3 Header                      J1             HDR1X3
+1x6 Header                      P1             HDR1X6
+1x2 Header                      P8             HDR1X2
+1x2 Header                      P9             HDR1X2
+NPN                             Q1             BJT NPN 180V 0.5A TO252
+Resistor                        R1             1206 - Resistor
+Resistor                        R2             1206 - Resistor
+Resistor                        R3             1206 - Resistor
+Resistor                        R4             1206 - Resistor
+Resistor                        R5             0603 - Resistor
+Resistor                        R6             0603 - Resistor
+Resistor                        R7             0603 - Resistor
+Resistor                        R8             0805 - Resistor
+Resistor                        R9             0603 - Resistor
+Resistor                        R10            0603 - Resistor
+Resistor                        R11            0603 - Resistor
+Resistor                        R12            0603 - Resistor
+Resistor                        R13            0603 - Resistor
+Resistor                        R14            0603 - Resistor
+Resistor                        R15            0603 - Resistor
+Test Point                      RX+            Test Point
+Test Point                      RX-            Test Point
+HM2101NLT                       T1             HM2101NLT
+LTC2949                         U1             LTC2949
+ABLS-4.000MHZ-K4T               U2             ABLS_4MHZ-K4T
+Test Point                      VBATP          Test Point
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00001] +12
+        C1         1       1              PASSIVE     Capacitor - Nonpolarized
+        C2         1       1              PASSIVE     Nonpolarized Capacitor
+        C2         2       2              PASSIVE     Nonpolarized Capacitor
+        C3         1       1              PASSIVE     Nonpolarized Capacitor
+        C3         2       2              PASSIVE     Nonpolarized Capacitor
+        C4         2       2              PASSIVE     Nonpolarized Capacitor
+        C7         2       2              PASSIVE     Nonpolarized Capacitor
+        C8         1       1              PASSIVE     Nonpolarized Capacitor
+        C8         2       2              PASSIVE     Nonpolarized Capacitor
+        C9         1       1              PASSIVE     Nonpolarized Capacitor
+        C10        1       1              PASSIVE     Nonpolarized Capacitor
+        C11        1       1              PASSIVE     Nonpolarized Capacitor
+        D1         1       A              PASSIVE     Zener
+        J1         1       1              PASSIVE     1x3 Header
+        J1         3       3              PASSIVE     1x3 Header
+        P9         1       1              PASSIVE     1x2 Header
+        Q1         3       E              PASSIVE     NPN
+        R8         1       1              PASSIVE     Resistor
+        R12        2       2              PASSIVE     Resistor
+        U1         17      DGND           POWER       LTC2949
+        U1         18      AGND           POWER       LTC2949
+        U1         19      AVCC           POWER       LTC2949
+        U1         20      DVCC           POWER       LTC2949
+        U1         47      VBATM          PASSIVE     LTC2949
+        U1         49      GND            POWER       LTC2949
+
+[00002] CLKI
+        C11        2       2              PASSIVE     Nonpolarized Capacitor
+        U1         33      CLKI           PASSIVE     LTC2949
+        U2         2       2              PASSIVE     ABLS-4.000MHZ-K4T
+
+[00003] CLKO
+        C10        2       2              PASSIVE     Nonpolarized Capacitor
+        U1         34      CLKO           PASSIVE     LTC2949
+        U2         1       1              PASSIVE     ABLS-4.000MHZ-K4T
+
+[00004] I1_N
+        P8         2       2              PASSIVE     1x2 Header
+        U1         42      I1M            PASSIVE     LTC2949
+
+[00005] I1_P
+        P8         1       1              PASSIVE     1x2 Header
+        U1         45      I1P            PASSIVE     LTC2949
+
+[00006] IOVCC
+        P9         2       2              PASSIVE     1x2 Header
+        R10        1       1              PASSIVE     Resistor
+        U1         26      IOVCC          POWER       LTC2949
+
+[00008] NetC4_1
+        C4         1       1              PASSIVE     Nonpolarized Capacitor
+        U1         16      BYP1           POWER       LTC2949
+
+[00009] NetC5_1
+        C5         1       1              PASSIVE     Nonpolarized Capacitor
+        U1         44      CF1P           PASSIVE     LTC2949
+
+[00010] NetC5_2
+        C5         2       2              PASSIVE     Nonpolarized Capacitor
+        U1         43      CF1M           PASSIVE     LTC2949
+
+[00011] NetC6_1
+        C6         1       1              PASSIVE     Nonpolarized Capacitor
+        U1         40      CF2M           PASSIVE     LTC2949
+
+[00012] NetC6_2
+        C6         2       2              PASSIVE     Nonpolarized Capacitor
+        U1         39      CF2P           PASSIVE     LTC2949
+
+[00013] NetC7_1
+        C7         1       1              PASSIVE     Nonpolarized Capacitor
+        U1         25      BYP2           POWER       LTC2949
+
+[00014] NetC9_2
+        C9         2       2              PASSIVE     Nonpolarized Capacitor
+        R4         1       1              PASSIVE     Resistor
+        R8         2       2              PASSIVE     Resistor
+        U1         48      VBATP          PASSIVE     LTC2949
+        VBATP      1       0              PASSIVE     Test Point
+
+[00015] NetD1_2
+        D1         2       K              PASSIVE     Zener
+        Q1         2       B              PASSIVE     NPN
+        R15        1       1              PASSIVE     Resistor
+
+[00017] NetP1_1
+        P1         1       1              PASSIVE     1x6 Header
+        U1         28      IBIAS          PASSIVE     LTC2949
+
+[00018] NetP1_2
+        P1         2       2              PASSIVE     1x6 Header
+        U1         27      ICMP           PASSIVE     LTC2949
+
+[00019] NetP1_3
+        P1         3       3              PASSIVE     1x6 Header
+        R10        2       2              PASSIVE     Resistor
+
+[00020] NetP1_4
+        P1         4       4              PASSIVE     1x6 Header
+
+[00021] NetP1_5
+        P1         5       5              PASSIVE     1x6 Header
+        R11        2       2              PASSIVE     Resistor
+
+[00022] NetP1_6
+        P1         6       6              PASSIVE     1x6 Header
+        R11        1       1              PASSIVE     Resistor
+        R12        1       1              PASSIVE     Resistor
+
+[00023] NetR1_1
+        R1         1       1              PASSIVE     Resistor
+        R2         2       2              PASSIVE     Resistor
+
+[00024] NetR2_1
+        R2         1       1              PASSIVE     Resistor
+        R3         2       2              PASSIVE     Resistor
+
+[00025] NetR3_1
+        R3         1       1              PASSIVE     Resistor
+        R4         2       2              PASSIVE     Resistor
+
+[00026] NetR5_1
+        R5         1       1              PASSIVE     Resistor
+        R7         2       2              PASSIVE     Resistor
+
+[00027] NetR6_1
+        R6         1       1              PASSIVE     Resistor
+        U1         41      I2M            PASSIVE     LTC2949
+
+[00028] NetR6_2
+        R6         2       2              PASSIVE     Resistor
+        U1         38      I2P            PASSIVE     LTC2949
+
+[00029] NetR7_1
+        R7         1       1              PASSIVE     Resistor
+        R13        2       2              PASSIVE     Resistor
+
+[00030] NetR13_1
+        R13        1       1              PASSIVE     Resistor
+        R14        2       2              PASSIVE     Resistor
+
+[00031] NetR14_1
+        R14        1       1              PASSIVE     Resistor
+        R15        2       2              PASSIVE     Resistor
+
+[00035] NetU1_14
+        U1         14      SCL            PASSIVE     LTC2949
+
+[00036] NetU1_15
+        U1         15      SDA            PASSIVE     LTC2949
+
+[00046] RX_N
+        R9         1       1              PASSIVE     Resistor
+        RX-        1       0              PASSIVE     Test Point
+        T1         3       RX-            PASSIVE     HM2101NLT
+        U1         29      IP             PASSIVE     LTC2949
+
+[00047] RX_P
+        R9         2       2              PASSIVE     Resistor
+        RX+        1       0              PASSIVE     Test Point
+        T1         1       RX+            PASSIVE     HM2101NLT
+        U1         30      IM             PASSIVE     LTC2949
+
+[00048] TX_N
+        T1         4       TX-            PASSIVE     HM2101NLT
+
+[00049] TX_P
+        T1         6       TX+            PASSIVE     HM2101NLT
+
+[00050] V1
+        U1         1       V1             PASSIVE     LTC2949
+
+[00051] V2
+        U1         2       V2             PASSIVE     LTC2949
+
+[00052] V3
+        U1         3       V3             PASSIVE     LTC2949
+
+[00053] V4
+        U1         4       V4             PASSIVE     LTC2949
+
+[00054] V5
+        U1         5       V5             PASSIVE     LTC2949
+
+[00055] V6
+        U1         7       V6             PASSIVE     LTC2949
+
+[00056] V7
+        U1         8       V7             PASSIVE     LTC2949
+
+[00057] V8
+        U1         9       V8             PASSIVE     LTC2949
+
+[00058] V9
+        U1         10      V9             PASSIVE     LTC2949
+
+[00059] V10
+        U1         11      V10            PASSIVE     LTC2949
+
+[00060] V11
+        U1         12      V11            PASSIVE     LTC2949
+
+[00061] V12
+        U1         13      V12            PASSIVE     LTC2949
+
+[00062] VBAT
+        Q1         1       C              PASSIVE     NPN
+        R1         2       2              PASSIVE     Resistor
+        R5         2       2              PASSIVE     Resistor
+
+[00063] VREF
+        C1         2       2              PASSIVE     Capacitor - Nonpolarized
+        U1         35      VREF           POWER       LTC2949
+

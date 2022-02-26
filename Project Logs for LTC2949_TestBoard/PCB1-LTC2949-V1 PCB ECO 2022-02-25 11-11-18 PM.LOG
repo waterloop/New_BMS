@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=IOVCC Pin=P9-2
+Added Pin To Net: NetName=IOVCC Pin=U1-26
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

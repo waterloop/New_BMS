@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=Battery Conn NewDesignator=P6
+Change Component Designator: OldDesignator=Current Sensing NewDesignator=P8
+Change Component Designator: OldDesignator=Motor Conn NewDesignator=P7
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

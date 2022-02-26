@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+12 Pin=U1-20
+Added Pin To Net: NetName=BGND Pin=VBATM-1
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

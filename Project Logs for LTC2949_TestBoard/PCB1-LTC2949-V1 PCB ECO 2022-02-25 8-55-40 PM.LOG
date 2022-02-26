@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+12 Pin=VBATM-1
+Removed Member From Class: ClassName=MAIN IC Member=VBATM
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=BGND Pin=C2-1
+Added Pin To Net: NetName=BGND Pin=C3-1
+Added Pin To Net: NetName=BGND Pin=C8-1
+Added Pin To Net: NetName=BGND Pin=J1-1
+Added Pin To Net: NetName=BGND Pin=Q1-3
+Added Pin To Net: NetName=BGND Pin=U1-19
+Added Pin To Net: NetName=BGND Pin=U1-20
+Change Net Name : Old Net Name=BGND New Net Name=+12
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC
