@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VBATM Pin=P5-1
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Pin To Net: NetName=VBATP Pin=TP1-1
+Added Pin To Net: NetName=VBATM Pin=TP2-1
+Change Net Name : Old Net Name=VBATM New Net Name=BGND
+Added Pin To Net: NetName=VBATM Pin=P5-1
+Added Net: Name=VBATM
+Added Member To Class: ClassName=MAIN IC Member=Component TP1 Test Point
+Added Member To Class: ClassName=MAIN IC Member=Component TP2 Test Point
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

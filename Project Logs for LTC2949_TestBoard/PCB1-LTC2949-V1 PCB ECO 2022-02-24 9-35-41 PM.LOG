@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VBATP Pin=P5-2
+Removed Member From Class: ClassName=CONNECTORS Member=P5
+Change Net Name : Old Net Name=NetP8_1 New Net Name=I1_P
+Change Net Name : Old Net Name=NetP8_2 New Net Name=I1_N
+Added Differential Pair: Name=I1
+Added Room: Name=MAIN IC
