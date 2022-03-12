@@ -1,0 +1,6 @@
+Added Component: Designator=*(10C/W Vertical Heatsink with Pins for TO-220)
+Added Pin To Net: NetName=BGND Pin=*-1
+Added Pin To Net: NetName=BGND Pin=*-2
+Added Member To Class: ClassName=CONNECTORS Member=Component * Heatsink
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC
