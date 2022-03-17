@@ -1,10 +1,29 @@
-Output: WireList Netlist
-Type  : WireListNetlist
-From  : Project [LTC2949_TestBoard.PrjPcb]
-   Generated File[LTC2949.NET]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:27:10 PM On 2022-03-16
+
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [PCB1-LTC2949-V1.PcbDoc]
+   Generated File[PCB1-LTC2949-V1.GTO]
+   Generated File[PCB1-LTC2949-V1.GTP]
+   Generated File[PCB1-LTC2949-V1.GTS]
+   Generated File[PCB1-LTC2949-V1.GTL]
+   Generated File[PCB1-LTC2949-V1.GBL]
+   Generated File[PCB1-LTC2949-V1.GBS]
+   Generated File[PCB1-LTC2949-V1.GBP]
+   Generated File[PCB1-LTC2949-V1.GBO]
+   Generated File[PCB1-LTC2949-V1.GM1]
+   Generated File[PCB1-LTC2949-V1.GM5]
+   Generated File[PCB1-LTC2949-V1.GM13]
+   Generated File[PCB1-LTC2949-V1.GM15]
+   Generated File[PCB1-LTC2949-V1.GKO]
+   Generated File[PCB1-LTC2949-V1.RUL]
+   Generated File[PCB1-LTC2949-V1.EXTREP]
+   Generated File[PCB1-LTC2949-V1.REP]
 
 
-Files Generated   : 1
+Files Generated   : 16
 Documents Printed : 0
 
-Finished Output Generation At 9:06:44 PM On 2022-02-25
+Finished Output Generation At 8:27:14 PM On 2022-03-16
