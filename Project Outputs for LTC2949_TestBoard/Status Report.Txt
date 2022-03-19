@@ -1,29 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 8:27:10 PM On 2022-03-16
+Start Output Generation At 8:51:06 PM On 2022-03-16
 
-Output: Gerber Files
-Type  : Gerber
+Output: Export STEP
+Type  : ExportSTEP
 From  : PCB Document [PCB1-LTC2949-V1.PcbDoc]
-   Generated File[PCB1-LTC2949-V1.GTO]
-   Generated File[PCB1-LTC2949-V1.GTP]
-   Generated File[PCB1-LTC2949-V1.GTS]
-   Generated File[PCB1-LTC2949-V1.GTL]
-   Generated File[PCB1-LTC2949-V1.GBL]
-   Generated File[PCB1-LTC2949-V1.GBS]
-   Generated File[PCB1-LTC2949-V1.GBP]
-   Generated File[PCB1-LTC2949-V1.GBO]
-   Generated File[PCB1-LTC2949-V1.GM1]
-   Generated File[PCB1-LTC2949-V1.GM5]
-   Generated File[PCB1-LTC2949-V1.GM13]
-   Generated File[PCB1-LTC2949-V1.GM15]
-   Generated File[PCB1-LTC2949-V1.GKO]
-   Generated File[PCB1-LTC2949-V1.RUL]
-   Generated File[PCB1-LTC2949-V1.EXTREP]
-   Generated File[PCB1-LTC2949-V1.REP]
+   Generated File[PCB1-LTC2949-V1.step]
 
 
-Files Generated   : 16
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:27:14 PM On 2022-03-16
+Finished Output Generation At 8:51:12 PM On 2022-03-16

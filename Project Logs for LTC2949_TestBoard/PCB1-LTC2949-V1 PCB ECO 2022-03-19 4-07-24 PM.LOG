@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=P6 Old DesignItemId=CUI_TB002-500-02 New DesignItemId=1935161
+Change Component DesignItemId : Designator=P7 Old DesignItemId=CUI_TB002-500-02 New DesignItemId=1935161
+Change Component Footprint: Designator=P6 Old Footprint=CUI_TB002-500-02 New Footprint=1935161
+Change Component Footprint: Designator=P7 Old Footprint=CUI_TB002-500-02 New Footprint=1935161
+Change Component Comment : Designator=P6 Old Comment=CUI_TB002-500-02 New Comment=1935161
+Change Component Comment : Designator=P7 Old Comment=CUI_TB002-500-02 New Comment=1935161
+Change Component Library : Designator=P6 Old Library=GeneralConnectors.IntLib New Library=GeneralConnectors.SchLib
+Change Component Library : Designator=P7 Old Library=GeneralConnectors.IntLib New Library=GeneralConnectors.SchLib
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC

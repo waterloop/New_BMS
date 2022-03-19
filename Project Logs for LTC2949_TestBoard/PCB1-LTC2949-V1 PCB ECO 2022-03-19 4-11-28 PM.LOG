@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R6 Old Footprint=0805 - Resistor New Footprint=0603 - Resistor
+Change Component Footprint: Designator=R8 Old Footprint=0805 - Resistor New Footprint=0603 - Resistor
+Added Room: Name=CONNECTORS
+Added Room: Name=MAIN IC
