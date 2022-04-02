@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 8:51:06 PM On 2022-03-16
+Start Output Generation At 11:17:36 AM On 2022-04-02
 
-Output: Export STEP
-Type  : ExportSTEP
+Output: Generates pick and place files
+Type  : Pick Place
 From  : PCB Document [PCB1-LTC2949-V1.PcbDoc]
-   Generated File[PCB1-LTC2949-V1.step]
+   Generated File[Pick Place for PCB1-LTC2949-V1.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:51:12 PM On 2022-03-16
+Finished Output Generation At 11:17:37 AM On 2022-04-02

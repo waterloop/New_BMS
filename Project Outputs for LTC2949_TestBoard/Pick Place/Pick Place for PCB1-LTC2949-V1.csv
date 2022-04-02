@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+C:\Users\navey\Documents\Git\New_BMS\LTC2949\Project Outputs for LTC2949_TestBoard\Pick Place\Pick Place for PCB1-LTC2949-V1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02-04-22
+Time:       11:17
+Revision:   e57f6b1feeb2992df1b735f3fecf7bf5e56b7c2a
+Variant:    No variations
+Units used: mm
+
+"Designator","Footprint","Center-X(mm)","Center-Y(mm)","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Layer","Rotation","Comment"
+"C8","0805_-_Capacitor","121.5390mm","100.5840mm","121.5390mm","100.5840mm","121.5390mm","101.5090mm","TopLayer","270","Nonpolarized Capacitor"
+"P3","HDR1X2","118.8720mm","75.9460mm","118.8720mm","74.6760mm","118.8720mm","74.6760mm","TopLayer","90","1x2 Header"
+"J1","HDR1X3","115.9510mm","101.4730mm","118.4910mm","101.4730mm","118.4910mm","101.4730mm","TopLayer","180","1x3 Header"
+"Q1","BJT_NPN_800_V_4_A_-_90_W_Through_Hole_TO-220","113.1570mm","108.7120mm","113.1330mm","108.6910mm","113.1570mm","108.7120mm","TopLayer","0","NPN"
+"*","10C/W_Vertical_Heatsink_with_Pins_for_TO-220","113.0980mm","113.9080mm","113.1570mm","113.9190mm","106.7480mm","113.9080mm","TopLayer","0","Heatsink"
+"T1","HM2101NLT","110.1315mm","76.1280mm","110.1090mm","76.0730mm","106.0590mm","78.7130mm","TopLayer","270","HM2101NLT"
+"P10","HDR1X2","103.1240mm","64.2620mm","104.3940mm","64.2620mm","104.3940mm","64.2620mm","TopLayer","180","1x2 Header"
+"C11","0805_-_Capacitor","101.8540mm","88.5190mm","101.8540mm","88.5190mm","102.7790mm","88.5190mm","TopLayer","180","Nonpolarized Capacitor"
+"C10","0805_-_Capacitor","101.8540mm","93.9800mm","101.8540mm","93.9800mm","102.7790mm","93.9800mm","TopLayer","180","Nonpolarized Capacitor"
+"R15","0603_-_Resistor","100.2030mm","107.1880mm","100.2030mm","107.1880mm","101.0280mm","107.1880mm","TopLayer","180","Resistor"
+"D1","BZD27C_-_ZENER_DIODES","99.4300mm","104.0040mm","99.4410mm","104.0130mm","97.8933mm","104.0040mm","TopLayer","0","Zener"
+"R12","0603_-_Resistor","98.2350mm","66.6750mm","98.2350mm","66.6750mm","97.4100mm","66.6750mm","TopLayer","0","Resistor"
+"U2","ABLS_4MHZ-K4T","97.1550mm","91.1860mm","97.1550mm","91.1860mm","97.1550mm","95.9360mm","TopLayer","270","ABLS-4.000MHZ-K4T"
+"R14","0603_-_Resistor","96.5200mm","107.1880mm","96.5200mm","107.1880mm","97.3450mm","107.1880mm","TopLayer","180","Resistor"
+"P7","1935161","95.6710mm","116.4590mm","95.8380mm","116.4590mm","93.1710mm","116.4590mm","TopLayer","0","1935161"
+"R11","0603_-_Resistor","95.2500mm","66.6750mm","95.2500mm","66.6750mm","96.0750mm","66.6750mm","TopLayer","180","Resistor"
+"R13","0603_-_Resistor","92.7740mm","107.1880mm","92.7740mm","107.1880mm","93.5990mm","107.1880mm","TopLayer","180","Resistor"
+"P1","HDR1X6","91.8210mm","64.2620mm","85.4710mm","64.2620mm","85.4710mm","64.2620mm","TopLayer","0","1x6 Header"
+"C1","0805_-_Capacitor","90.4240mm","102.8700mm","90.4240mm","102.8700mm","89.4990mm","102.8700mm","TopLayer","0","Capacitor - Nonpolarized"
+"P11","HDR1X2","90.2970mm","100.4570mm","91.5670mm","100.4570mm","91.5670mm","100.4570mm","TopLayer","180","1x2 Header"
+"R7","0603_-_Resistor","88.9000mm","107.1880mm","88.9000mm","107.1880mm","89.7250mm","107.1880mm","TopLayer","180","Resistor"
+"R5","0603_-_Resistor","85.2170mm","107.1880mm","85.2170mm","107.1880mm","86.0420mm","107.1880mm","TopLayer","180","Resistor"
+"R6","0603_-_Resistor","83.9470mm","96.1390mm","83.9470mm","96.1390mm","83.1220mm","96.1390mm","TopLayer","0","Resistor"
+"P6","1935161","83.8600mm","116.4590mm","84.0270mm","116.4590mm","81.3600mm","116.4590mm","TopLayer","0","1935161"
+"R9","0603_-_Resistor","83.3120mm","84.8360mm","83.3120mm","84.8360mm","83.3120mm","84.0110mm","TopLayer","90","Resistor"
+"R10","0603_-_Resistor","82.0420mm","67.4370mm","82.0420mm","67.4370mm","81.2170mm","67.4370mm","TopLayer","0","Resistor"
+"C7","0805_-_Capacitor","80.7720mm","74.4220mm","80.7720mm","74.4220mm","80.7720mm","75.3470mm","TopLayer","270","Nonpolarized Capacitor"
+"P9","HDR1X2","79.8830mm","64.2620mm","78.6130mm","64.2620mm","78.6130mm","64.2620mm","TopLayer","0","1x2 Header"
+"C6","0805_-_Capacitor","79.1210mm","92.3290mm","79.1210mm","92.3290mm","78.1960mm","92.3290mm","TopLayer","0","Nonpolarized Capacitor"
+"R18","1206_-_Resistor","78.7400mm","100.4570mm","78.7400mm","100.4570mm","80.2650mm","100.4570mm","TopLayer","180","Resistor"
+"R17","1206_-_Resistor","78.7400mm","103.2510mm","78.7400mm","103.2510mm","77.2150mm","103.2510mm","TopLayer","0","Resistor"
+"R16","1206_-_Resistor","78.7400mm","105.9180mm","78.7400mm","105.9180mm","80.2650mm","105.9180mm","TopLayer","180","Resistor"
+"C2","0805_-_Capacitor","77.5970mm","74.4220mm","77.5970mm","74.4220mm","77.5970mm","75.3470mm","TopLayer","270","Nonpolarized Capacitor"
+"U1","LTC2949","76.4540mm","85.3440mm","76.4540mm","85.3440mm","72.2540mm","88.0940mm","TopLayer","0","LTC2949"
+"C3","0805_-_Capacitor","75.8190mm","74.4220mm","75.8190mm","74.4220mm","75.8190mm","75.3470mm","TopLayer","270","Nonpolarized Capacitor"
+"R4","1206_-_Resistor","75.6920mm","108.4580mm","75.6920mm","108.4580mm","77.2170mm","108.4580mm","TopLayer","180","Resistor"
+"R3","1206_-_Resistor","75.6920mm","111.1250mm","75.6920mm","111.1250mm","74.1670mm","111.1250mm","TopLayer","0","Resistor"
+"R2","1206_-_Resistor","75.6920mm","113.7920mm","75.6920mm","113.7920mm","77.2170mm","113.7920mm","TopLayer","180","Resistor"
+"R1","1206_-_Resistor","75.6920mm","116.4590mm","75.6920mm","116.4590mm","74.1670mm","116.4590mm","TopLayer","0","Resistor"
+"C5","0805_-_Capacitor","74.5490mm","92.3290mm","74.5490mm","92.3290mm","73.6240mm","92.3290mm","TopLayer","0","Nonpolarized Capacitor"
+"C4","0805_-_Capacitor","72.6440mm","74.4220mm","72.6440mm","74.4220mm","72.6440mm","75.3470mm","TopLayer","270","Nonpolarized Capacitor"
+"P2","HDR1X3","72.0090mm","64.2620mm","74.5490mm","64.2620mm","74.5490mm","64.2620mm","TopLayer","180","1x3 Header"
+"R8","0603_-_Resistor","68.8340mm","93.9800mm","68.8340mm","93.9800mm","68.0090mm","93.9800mm","TopLayer","0","Resistor"
+"C9","0805_-_Capacitor","68.7070mm","96.2660mm","68.7070mm","96.2660mm","67.7820mm","96.2660mm","TopLayer","0","Nonpolarized Capacitor"
+"P4","HDR1X12","65.2780mm","81.7880mm","65.2780mm","95.7580mm","65.2780mm","95.7580mm","TopLayer","270","1x12 Header"
+"P8","HDR1X2","65.0240mm","108.3310mm","65.0240mm","107.0610mm","65.0240mm","107.0610mm","TopLayer","90","1x2 Header"
